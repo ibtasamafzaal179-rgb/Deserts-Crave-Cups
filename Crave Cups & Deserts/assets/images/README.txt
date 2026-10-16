@@ -1,0 +1,1 @@
+Place owner-approved local product and event photographs in this folder. Replace the external demo image URLs in the HTML with relative paths such as assets/images/product-name.jpg before production launch.
